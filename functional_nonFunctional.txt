@@ -1,0 +1,3 @@
+Non-functional requirement can be defined as  what way the system must do.
+
+A functional requirement is everything the system need to do.
